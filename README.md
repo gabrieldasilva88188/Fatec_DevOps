@@ -26,12 +26,12 @@ Estudantes de Tecnologia da Informação interessados em desenvolvimento de soft
 
 | Nº | Aula     |
 | -- | -------- |
-| 1  | aula 1   |
-| 2  | aula 2   |
-| 3  | aula 3   |
-| 4  | aula 4   |
-| 5  | aula 5   |
-| 6  | aula 6   |
+| 1  | Apresentação da Disciplina e Introdução ao DevOps   |
+| 2  | Conceitos de Integração e Entrega Contínua de Software   |
+| 3  | Gerência de Configuração   |
+| 4  | Ferramentas de Integração e Entrega Contínua   |
+| 5  | Pipeline de Integração Contínua   |
+| 6  | Revisão Ferramentas e Pipelines   |
 
 Cada pasta reúne os exercícios, códigos e materiais de apoio referentes à respectiva aula da disciplina.
 
