@@ -32,6 +32,8 @@ Estudantes de Tecnologia da Informação interessados em desenvolvimento de soft
 | 4  | Ferramentas de Integração e Entrega Contínua   |
 | 5  | Pipeline de Integração Contínua   |
 | 6  | Revisão Ferramentas e Pipelines   |
+| 7  | testes automatizados   |
+| 8  | ferramentas_devops   |
 
 Cada pasta reúne os exercícios, códigos e materiais de apoio referentes à respectiva aula da disciplina.
 
