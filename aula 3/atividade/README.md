@@ -11,7 +11,7 @@
 
 ## 🚀 Links do Projeto
 
-* 🌐 **Demo Online (Vercel):** [https://projeto-react-lime.vercel.app/](https://projeto-react-lime.vercel.app/)
+* 🌐 **Online (Vercel):** [https://projeto-react-lime.vercel.app/](https://projeto-react-lime.vercel.app/)
 * 📦 **Repositório GitHub:** [https://github.com/gabrieldasilva88188/Projeto_react](https://github.com/gabrieldasilva88188/Projeto_react)
 
 ---
