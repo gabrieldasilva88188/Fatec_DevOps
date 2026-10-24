@@ -1,0 +1,3 @@
+Atividade
+1. Criem um novo projeto que integre três tipos de testes automatizados: unitário, integração e performance. Organizem o projeto para que cada tipo de teste possa ser executado e analisado de forma independente.
+2. Em seguida, criem uma pipeline de Integração Contínua (CI) utilizando um arquivo .yml no GitHub Actions, configurada para executar automaticamente a cada push na branch main. A pipeline deverá instalar as dependências, executar os três tipos de testes e apresentar os resultados.
